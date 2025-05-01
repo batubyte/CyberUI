@@ -600,7 +600,7 @@ modified Firefox that is patched to fix a variety of privacy bugs.""")
 if __name__ == "__main__":
     title = "CyberUI"
     author = "@batubyte"
-    update_date = "2/8/2025"
+    update_date = "5/1/2025"
 
     if platform.system() == "Windows":
         main()
